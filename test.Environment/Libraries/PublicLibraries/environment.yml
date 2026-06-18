@@ -1,3 +1,4 @@
 dependencies:
+  - attrs==26.1.0
   - pip:
       - testpath==0.5.0
