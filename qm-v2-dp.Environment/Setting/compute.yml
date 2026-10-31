@@ -1,5 +1,5 @@
 schema_version: "2.0"
-compute_type: Python
+compute_type: Spark
 enable_native_execution_engine: false
 instance_pool:
   name: Starter Pool
