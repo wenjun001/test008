@@ -1,0 +1,12 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Environment",
+    "displayName": "qm-v2-new",
+    "description": "D5 save-only env"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "57c47b65-3ce7-4f88-abe9-def40437cd5f"
+  }
+}
