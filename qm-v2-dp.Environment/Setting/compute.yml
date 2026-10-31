@@ -15,4 +15,5 @@ dynamic_executor_allocation:
 spark_conf:
   spark.sql.shuffle.partitions: 8
   spark.test.flag: false
+  spark.g10.marker: fromB
 runtime_version: "1.3"
