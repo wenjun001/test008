@@ -1,0 +1,15 @@
+schema_version: "2.0"
+compute_type: Spark
+enable_native_execution_engine: false
+instance_pool:
+  name: Starter Pool
+  type: Workspace
+driver_cores: 4
+driver_memory: "28g"
+executor_cores: 4
+executor_memory: "28g"
+dynamic_executor_allocation:
+  enabled: true
+  minExecutors: 1
+  maxExecutors: 2
+runtime_version: "1.3"
