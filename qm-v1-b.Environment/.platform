@@ -1,0 +1,12 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Environment",
+    "displayName": "qm-v1-b",
+    "description": "T1 hand-written Git format V1"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "e14cc6f4-c5b9-4d0d-82e7-fe5022832dde"
+  }
+}
