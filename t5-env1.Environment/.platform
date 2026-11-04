@@ -1,0 +1,12 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Environment",
+    "displayName": "t5-env1",
+    "description": "T5: Full and Quick Mode libraries, published"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "37943c03-88a7-924b-479d-ca52f66e22e1"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Environment",
+    "displayName": "t5-env2",
+    "description": "T5: Full Mode only plus a Spark property, published"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "26493391-e9f7-99ec-481a-75e2193eac05"
+  }
+}

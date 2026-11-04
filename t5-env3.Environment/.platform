@@ -1,0 +1,12 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Environment",
+    "displayName": "t5-env3",
+    "description": "T5: published Full Mode, Quick Mode staging change only"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "dfba9330-d259-ac0b-4d47-8dac9c77a3b9"
+  }
+}
