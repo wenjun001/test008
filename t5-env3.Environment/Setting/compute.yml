@@ -14,5 +14,5 @@ dynamic_executor_allocation:
   maxExecutors: 2
 spark_conf:
   spark.t5.marker: v1-env3
-  spark.t5.step2: upgrade
+  spark.t5.step2: upgrade-t55
 runtime_version: "1.3"
