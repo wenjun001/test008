@@ -1,0 +1,12 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Environment",
+    "displayName": "gitfmtEnv3",
+    "description": "scenario f: new Environment, first commit under 1.0"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "41ec29a5-7baa-945e-4042-6484c3534062"
+  }
+}
