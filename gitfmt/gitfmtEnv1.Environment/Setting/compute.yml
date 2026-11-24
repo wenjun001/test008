@@ -11,5 +11,5 @@ executor_memory: "28g"
 dynamic_executor_allocation:
   enabled: true
   minExecutors: 1
-  maxExecutors: 2
+  maxExecutors: 3
 runtime_version: "1.3"
