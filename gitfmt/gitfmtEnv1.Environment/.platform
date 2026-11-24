@@ -1,0 +1,12 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Environment",
+    "displayName": "gitfmtEnv1",
+    "description": "synthetic test Environment"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "5202763c-f845-8f39-45c5-7f74a888a2d9"
+  }
+}
