@@ -1,2 +1,2 @@
 def full():
-    return "rt_full v1"
+    return "rt_full v2"
