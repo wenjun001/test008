@@ -1,0 +1,12 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Environment",
+    "displayName": "qmExtNew",
+    "description": "qext: a new Environment from Git with .tar.gz and .jar custom libraries"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "7e9ed3c8-15b9-401a-8e67-fdd26854dd14"
+  }
+}
