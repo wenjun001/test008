@@ -11,5 +11,7 @@ executor_memory: "28g"
 dynamic_executor_allocation:
   enabled: true
   minExecutors: 1
-  maxExecutors: 2
+  maxExecutors: 1
+spark_conf:
+  spark.sql.shuffle.partitions: 7
 runtime_version: "1.3"
