@@ -1,0 +1,12 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Environment",
+    "displayName": "qmEnv7b",
+    "description": "V1 -> V2 conversion scenario: no libraries"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "218c82da-6034-89c5-4312-4f7010832949"
+  }
+}
