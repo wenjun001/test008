@@ -1,0 +1,12 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Environment",
+    "displayName": "qmBadL",
+    "description": "qbad L: V1 with a custom library, made invalid in C8"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "73895959-49cd-40fc-9237-22361a80e517"
+  }
+}

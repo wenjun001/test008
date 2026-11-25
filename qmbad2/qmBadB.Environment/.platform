@@ -1,0 +1,12 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Environment",
+    "displayName": "qmBadB",
+    "description": "qbad B: V2 with Quick Mode, a valid change in every update"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "66438053-6dd5-4886-9240-25ad079221b9"
+  }
+}
