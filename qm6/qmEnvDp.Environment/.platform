@@ -1,0 +1,12 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Environment",
+    "displayName": "qmEnvDp",
+    "description": "Quick Mode scenario: deployment source"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "90597639-8a46-4d22-b9e3-aa0388fd95b6"
+  }
+}
