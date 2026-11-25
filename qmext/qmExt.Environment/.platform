@@ -1,0 +1,12 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Environment",
+    "displayName": "qmExt",
+    "description": "qext: Quick Mode and Full Mode .tar.gz and .jar custom libraries"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "2836875c-7083-8eca-4ebb-6db2dabbb4d3"
+  }
+}
