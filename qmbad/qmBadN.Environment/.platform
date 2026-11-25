@@ -2,11 +2,11 @@
   "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
   "metadata": {
     "type": "Environment",
-    "displayName": "qmBadM",
-    "description": "qbad M: V1 with a Sparkcompute.yml that is not YAML"
+    "displayName": "qmBadN",
+    "description": "qbad N: V1 with two custom libraries of one name"
   },
   "config": {
     "version": "2.0",
-    "logicalId": "c952c027-fde4-4b9c-8266-1bec1e7b6291"
+    "logicalId": "13150efb-ce9f-47f2-8ef1-204948c5c7a4"
   }
 }
