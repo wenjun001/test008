@@ -1,0 +1,12 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Environment",
+    "displayName": "qmKeepD-11250931",
+    "description": "qkeep2 D (D17 question 1, updates)"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "b835256a-a803-9ea3-44cc-6e44a4169a86"
+  }
+}
