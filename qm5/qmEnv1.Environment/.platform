@@ -1,0 +1,12 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Environment",
+    "displayName": "qmEnv1",
+    "description": "qback: Quick Mode changes 2026-11-25T04:12:41Z"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "ace64d65-c86d-a007-47de-80d2b1128db6"
+  }
+}
