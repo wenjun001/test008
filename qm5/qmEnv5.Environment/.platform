@@ -1,0 +1,12 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Environment",
+    "displayName": "qmEnv5",
+    "description": "Quick Mode scenario: setting 1.0"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "34106a68-d761-be65-44ad-33fe7d384401"
+  }
+}
