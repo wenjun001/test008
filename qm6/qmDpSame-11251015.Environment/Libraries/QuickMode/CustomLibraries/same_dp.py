@@ -1,1 +1,1 @@
-SAME_DP = 'same_dp quick v2'
+SAME_DP = 'same_dp quick v3'
