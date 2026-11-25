@@ -1,0 +1,12 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Environment",
+    "displayName": "qmEnvRt",
+    "description": "Runtime change through Git scenario"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "14c2bc04-6049-8be4-47e3-92f0ffea94af"
+  }
+}
