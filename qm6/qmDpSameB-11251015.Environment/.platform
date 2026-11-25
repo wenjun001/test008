@@ -1,0 +1,12 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Environment",
+    "displayName": "qmDpSameB-11251015",
+    "description": "qdpsame: same_dp.py in both modes (TC-0221, TC-0006), source B"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "0d18436a-0627-439a-b3f3-cd00e9676916"
+  }
+}
