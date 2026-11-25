@@ -1,0 +1,12 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Environment",
+    "displayName": "qmBadC",
+    "description": "qbad C: V2 files without the marker"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "82d7cd3a-c618-4ed7-9664-5e9740beabc2"
+  }
+}
