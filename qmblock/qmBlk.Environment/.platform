@@ -1,0 +1,12 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Environment",
+    "displayName": "qmBlk",
+    "description": "qblock: V2 with a Quick Mode and a Full Mode custom library"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "d5f4667e-a2bc-4e5f-af90-4a9f15d48f8a"
+  }
+}
