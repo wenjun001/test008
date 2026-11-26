@@ -1,0 +1,12 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Environment",
+    "displayName": "qmKeepA-11261608",
+    "description": "qkeep A (D17 question 1)"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "a3f5d823-e7af-bee1-416e-333de3d724a0"
+  }
+}
