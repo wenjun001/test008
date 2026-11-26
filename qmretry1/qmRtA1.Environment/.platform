@@ -1,0 +1,12 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Environment",
+    "displayName": "qmRtA1",
+    "description": "qretry A: V2 with a Quick Mode library, never changed"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "50525f64-0bf4-4c32-b6a0-6e1c4e8c1085"
+  }
+}
