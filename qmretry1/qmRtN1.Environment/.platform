@@ -1,0 +1,12 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Environment",
+    "displayName": "qmRtN1",
+    "description": "qretry N: V1 that fails; then an Environment with its name is created through the public API"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "bedbfd89-3ff4-4c31-832d-ff425f43523c"
+  }
+}
