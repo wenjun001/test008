@@ -1,0 +1,12 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Environment",
+    "displayName": "qmMergeR3e4",
+    "description": "qmerge run 1 R3: first commit with nothing saved"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "e6ebe9d8-a803-9f37-41b8-01e8cc98ac93"
+  }
+}
