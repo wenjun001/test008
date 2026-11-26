@@ -1,0 +1,12 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Environment",
+    "displayName": "qmUpg2b",
+    "description": "qupgf run 2: a second unchanged V1 Environment, never selected for the upgrade"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "36d76d59-b9bb-8a10-4201-7e63d683c50a"
+  }
+}
