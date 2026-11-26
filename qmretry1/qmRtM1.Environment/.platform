@@ -1,0 +1,12 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Environment",
+    "displayName": "qmRtM1",
+    "description": "qretry M: V1 that fails first, then is fixed in Git"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "130b7a91-c93d-4745-82ec-ad9b0484e99e"
+  }
+}
