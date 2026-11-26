@@ -1,0 +1,12 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Environment",
+    "displayName": "qmVis1",
+    "description": "qvis: a new V2 Environment with several libraries, to see whether it is listed while it is created"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "26ea6c66-b9a2-4ffc-b2d8-103bb0088887"
+  }
+}
