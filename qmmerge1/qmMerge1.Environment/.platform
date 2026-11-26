@@ -1,0 +1,12 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Environment",
+    "displayName": "qmMerge1",
+    "description": "qmerge run 1: committed under main's default, then V2 with a Quick Mode library"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "00c326f5-b6d9-a7b5-4a4a-cd9e0124faa9"
+  }
+}
